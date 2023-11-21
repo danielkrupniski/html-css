@@ -1,0 +1,25 @@
+@charset "UTF8";
+
+body {
+    background-color: lightgoldenrodyellow;        
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+} 
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: maroon;
+    background-color: goldenrod;
+}
+
+h2 {
+    text-align: left;
+    text-decoration: underline;
+    color: darkred;
+}
+
+p {
+    text-indent: 30px;
+    text-align: justify;
+}
