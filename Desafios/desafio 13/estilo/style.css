@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(252, 43, 43);
+    color: white;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    padding-top: 50px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.212);
+}
+
+header > h1 {
+    font-size: 4em;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.603);
+}
+
+#sim {
+    height: 40px;
+    width: 60px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: -70px;
+    margin-top: 500px;
+}
+
+#nao {
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 500px;
+}
+
+h2#coracao {
+    margin-top: -450px;
+}
+
+body {
+    background-color: red;
+}
