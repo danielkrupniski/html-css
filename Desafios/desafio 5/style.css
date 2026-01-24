@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: lightgray;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    background-color: white;
+    padding: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.356);
+}
+
+h2 {
+    padding: 10px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.356);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 250px;
+    padding: 10px;
+}
